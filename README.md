@@ -1,2 +1,2 @@
 # kustomization_k8s_clouster
-Applying kustmization in the deployment
+Applying kustmization to the deployment
